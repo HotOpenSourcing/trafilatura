@@ -45,3 +45,5 @@ benchmarks/
 
 uv.lock
 
+config.bat
+node_modules
